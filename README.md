@@ -1,24 +1,3 @@
-# vuetodo
+Vue로 만든 To Do 게시판입니다.
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://user-images.githubusercontent.com/49604943/122038015-2033db00-ce10-11eb-9397-034820095208.png)
